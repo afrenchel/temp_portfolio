@@ -15,7 +15,7 @@ function App() {
       <main className="main">
         <h2>Hi! I'm <span className="name-color">Alina</span> !</h2>
         <h4>Currently, I'm working on my portfolio..</h4>
-        <p>I had to make use of the domain I purchased and I wanted to test this nice lottie</p>
+        <p>I had to make use of the domain I purchased and I wanted to test this nice lottie 	<span className="heart">&#9829;</span></p>
         <div className="img-wrapper">
           <img src={ME} alt="Alina Frenchel" />
         </div>

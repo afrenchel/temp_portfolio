@@ -41,6 +41,10 @@
   color: #888;
 }
 
+.heart {
+  color: #E90064;
+}
+
 .grid-container {
   display: grid;
   min-width: 100%;
